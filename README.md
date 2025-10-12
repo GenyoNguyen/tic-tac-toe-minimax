@@ -64,11 +64,11 @@ Builds the app for production to the `build` folder.
 
 ## How to Play
 
-1. Select a difficulty level: Easy, Medium, or Hard
+1. Select a difficulty level: Easy or Hard
 2. You play as X, and the AI plays as O
 3. Click on any empty square to make your move
 4. The game will announce the winner or a draw
-5. Click "New Game" to play again
+5. Click "Restart" to play again
 
 ## Project Structure
 
@@ -106,13 +106,5 @@ The game uses React's useState and useEffect hooks for state management, keeping
 ### Local Storage
 
 Game statistics and win streaks are persisted to the browser's local storage, allowing players to maintain their records between sessions.
-
-## Future Enhancements
-
-- [ ] Multiplayer support
-- [ ] User accounts and leaderboards
-- [ ] Customizable board size
-- [ ] Animation and sound effects
-- [ ] Game replay functionality
 
 
