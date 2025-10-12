@@ -11,6 +11,10 @@ A modern, responsive Tic-Tac-Toe game built with React that features multiple di
 - **Responsive Design**: Play on any device with a responsive layout
 - **Performance Metrics**: View AI "thinking time" and positions evaluated
 
+## Live Demo
+
+Try out the game here: [Tic-Tac-Toe](https://tic-tac-toe-minimax-ovha4qrjp-genyonguyens-projects.vercel.app/)
+
 ## Getting Started
 
 ### Prerequisites
